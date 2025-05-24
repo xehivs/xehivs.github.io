@@ -2,7 +2,7 @@ main:
   - name: Dom
     url: /
     weight: 1
-  - name: Rzeczy
+  - name: Sprawy
     url: /projects/
     weight: 2
     # child:

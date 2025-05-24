@@ -1,11 +1,11 @@
 ---
 layout: projects
-title: Rzeczy
+title: Sprawy
 permalink: "/projects/"
 
 projects:
-  heading: "Rzeczy"
-  sub_heading: "Zbiór rzeczy, z którymi mam coś wspólnego"
+  heading: "Sprawy"
+  sub_heading: "Zdarzenia, rzeczy i sytuacje z którymi mam coś wspólnego"
   limit: 96
   sort: date # date | weight
   view_more_button_text: "" # "More Projects"

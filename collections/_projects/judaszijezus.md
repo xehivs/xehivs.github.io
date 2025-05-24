@@ -1,7 +1,7 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Judasz i Jezus"
-description: "Breathing new life into old industrial estates"
+description: ""
 date: 2015-07-01
 weight: 3
 thumbnail: "/assets/images/gen/projects/judaszijezus-thumbnail.jpg"
