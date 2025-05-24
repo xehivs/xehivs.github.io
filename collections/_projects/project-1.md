@@ -20,4 +20,4 @@ gallery:
 
 Judasza (kot czarny) przygarnąłem ze schroniska w 2015 roku, kiedy udało mi się wynająć pierwsze w życiu mieszkanie tylko dla siebie. Trochę gryzł po nosie, trochę rozrabiał, ale okazał się czystą, puchatą miłością z pogardą do wszystkiego, co wydaje dźwięk.
 
-Jezus (kot łaciaty) pojawiła się w okolicach koronawirusa. Judasz okazał się przy niej naprawdę sprawną i kochającą matką.
+Jezus (kot łaciaty) pojawiła się w okolicach koronawirusa. Judasz okazał się przy niej naprawdę sprawną i kochającą matką. Jest słodka i delikatna, ale kiedy tylko wejdziesz jej w drogę nawet nie *miauknie*, tylko wieczorem, kiedy zaśniesz wejdzie na Ciebie i zwolni komorę pęcherza.
