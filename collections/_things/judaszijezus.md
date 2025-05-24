@@ -5,7 +5,7 @@ description: ""
 date: 2015-07-01
 weight: 3
 thumbnail: "/assets/images/gen/projects/judaszijezus-thumbnail.jpg"
-image: "/assets/images/gen/projects/project-2-1.webp"
+image: "/assets/images/gen/projects/judaszijezus.jpg"
 categories: []
 client: false
 role: false
