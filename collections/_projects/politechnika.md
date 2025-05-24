@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Politechnika"
 description: ""
-weight: 3
+weight: 12
 thumbnail: "/assets/images/gen/projects/politechnika-thumbnail.jpeg"
 image: "/assets/images/gen/projects/politechnika1.jpeg"
 categories: []
