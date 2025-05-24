@@ -15,6 +15,7 @@ gallery:
   - image: "/assets/images/gen/projects/project-1-2.webp"
     caption: "<strong>Above:</strong> Rear offices square design in contrast"
 gallery_limit: 2
+published: false
 ---
 
 Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.

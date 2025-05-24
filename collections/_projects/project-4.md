@@ -14,6 +14,7 @@ gallery:
   - image: "/assets/images/gen/projects/project-4-1.webp"
   - image: "/assets/images/gen/projects/project-4-4.webp"
   - image: "/assets/images/gen/projects/project-4-7.webp"
+published: false
 ---
 
 Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
