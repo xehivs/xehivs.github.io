@@ -157,6 +157,105 @@ Uzbrojony terenowy Segway policyjny w akcji.
 
 > A skoro już o projekcjach astralnych mowa, to może przejdźmy do rozdziału poświęconemu projektowi naszego systemu komunikacyjnego.
 
----
+# Rozdział trzeci — Projekt systemu 
 
-Ciąg dalszy nastąpi.
+Tak jak w rozdziale drugim opisujemy projekt jak czarną skrzynkę, w rozdziale trzecim zdejmujemy z niej pokrywkę i pokazujemy co faktycznie znajduje się w środku i w jaką strukturę zostało połączone. Nie opisujemy tego jak dokładnie zbudowany został każdy jej najmniejszy element, a jaką architekturę razem tworzą poszczególne moduły.
+
+Można wspomnieć tu o takich elementach jak:
+
+
+- Schemat przepływu informacji pokazujący abstrakcyjnie role, jakie będzie spełniać system.
+![](/assets/images/gen/projects/pd1.png)
+- Techniczny opis każdego z modułów.
+- Diagramy, tabele, opis interfejsów programistycznych (API).
+- Projekt interfejsu, na przykład w formie tzw. [Wireframes](https://wireframe.cc).
+- Model danych, na przykład w formie diagramu ERD^15.
+-  Opis stosowanej reprezentacji, czy to jako przykładowe pliki `json` wykorzystywane w komunikacji, czy rodzaj kodowania, którym będą się Państwo posługiwać.
+![](/assets/images/gen/projects/pd2.png)
+- Architektura systemu, czyli opis poszczególnych jego modułów i wzajemnych zależności.
+![](/assets/images/gen/projects/pd3.png)
+- Zdefiniowanie stosowanych wzorców projektowych.
+- Cała reszta *>>gruzu<<*^16, który tylko jest istotny dla projektu
+
+15^ *Entity-Relationship Diagram*
+
+16^*Ważnych dla autora informacji, bez których według niego opis nie będzie kompletny.
+
+Wszystkie elementy, które znajdują się w tym rozdziale muszą wynikać w jakiś sposób ze zdefiniowanego we wcześniejszej części pracy celu. Ma to być w zasadzie wejście w detal w ramach schematu. Oś pracy inżynierskiej i jej najważniejszy i najbardziej treściwy fragment.
+
+# Rozdział czwarty — Implementacja systemu
+
+W rozdziale czwartym jeszcze bardziej zagłębiamy się w detale, skupiając się już na budowie wszystkich poszczególnych modułów systemu. Bardzo mile widziane będzie wskazanie w nim publicznego repozytorium, o które najłatwiej w [Githubie](http://github.com), w ramach którego udostępnimy kod projektu^17. Mogą się tu znaleźć takie elementy jak:
+
+- Wstawki kodu. Broń boże nie cały kod projektu, a jedynie *interesujące* detale implementacyjne, z których są Państwo szczególnie dumni.
+![](/assets/images/gen/projects/pd4.png)
+- Badanie efektywności systemu, jeśli na przykład realizuje jakieś zadania uczenia maszyn.
+- Decyzje projektowe wraz z uzasadnieniami.
+- Zrzuty ekranu z interfejsu użytkownika.
+- Przykłady wykorzystania aplikacji.
+     
+17^ *W razie, gdyby ktoś bardzo nie umiał w \textsc{git}-a, tutaj jest [poradnik dla opornych](http://rogerdudler.github.io/git-guide/index.pl.html).
+
+Co do zasady, rozdział ten jest już domknięciem projektu i dowodem na to, że faktycznie został zrealizowany. Mogą się Państwo w nim pożalić na wszelkie problemy implementacyjne, pochwalić wszystkimi [małymi zwycięstwami](https://www.youtube.com/watch?v=87Q5PEjmrCU) i przede wszystkim pokazać, że opisany wcześniej projekt był przemyślany, sensowny i możliwy do realizacji.
+    
+# Podsumowanie  
+
+Tu nareszcie można odetchnąć. Aby lekko napisać podsumowanie należy na spokojnie przejrzeć cały tekst i z absolutną powagą odpowiedzieć na poniższe pytania.
+    
+- Co było planowane?
+- Co się udało?
+- Co się nie udało?
+- Dlaczego się nie udało?
+- Dlaczego to dobrze, że się nie udało?
+- Jakie mam z tego wszystkiego wnioski inne niż to, że *fajnie, że to już koniec*?
+- Co może się udać z tym zrobić w przyszłości^18?
+
+18^ Jedynie hipotetycznie ~ spokojnie, swoje już udało Ci się zrobić.
+
+# Spis literatury
+
+Dawniej było tak, że wydziałowa biblioteka przeprowadzała dla dyplomantów szkolenie z opracowywania spisów literatury i należytego cytowania twórczości innych autorów, więc jeśli nic się nie zmieniło, doskonale już Państwo wiedzą, jakie są najważniejsze wytyczne ich opracowywania. Jeśli praca powstawać będzie w systemie LaTeX, wszystkim służę pomocą podczas konsultacji, na tę chwilę wskazując w miarę dobry opis [z Wikipedii](https://pl.wikipedia.org/wiki/BibTeX). Jeśli w Wordzie, chętnie pomógłbym osobiście, ale nie używałem go od wersji 97, więc lepiej będzie mi polecić (zachęcając do tego również tych z Państwa, którzy używają LaTeX-a) poświęcone temu zagadnieniu wpisy z bloga [Warsztat Badacza](http://ekulczycki.pl/warsztat_badacza/menedzer_bibliografii/).
+
+Bardzo przydatnym podczas przeglądu literatury będzie dla Państwa dowolne narzędzie do zarządzania nim. Z własnego doświadczenia, spośród darmowych rozwiązań, mogę polecić [Mendeley](https://www.mendeley.com) i [Zotero](https://www.zotero.org). Oba mam i nie używam.
+
+# Na co jeszcze zwracać uwagę?}
+
+- Nikomu nigdy na nic nie przydał się spis ilustracji czy tabel. To tylko zapychacze stron.
+- Jeśli mamy dużą, porządnie napisaną dokumentację albo obszerne wyniki badań, ich pełną formę można dodać do pracy jako tzw. *Appendix*. Nie zaburzy głównego tekstu pracy, a solidnie rozszerzy liczbę stron.
+- Ilustracje, które przygotowujemy powinny być możliwie proste i schematyczne. Nie warto zakopywać się w gradientach i wodotryskach, bo tylko zaburzą sens przekazu. 
+- Za nic w świecie **nigdy, przenigdy** proszę nie dodawać do pracy zrzutów ekranu z kodem, a wprost jego wstawki^19.
+- Niby to oczywiste, ale proszę korzystać ze sprawdzania pisowni. Jeśli w tekście pracy pojawi się słowo *powsrać* w miejsce *powstać*, naprawdę obniża to walory estetyczne dokumentu i niweluje chęć jego lektury^20.
+
+19^ *W wypadku systemu \LaTeX wstawki kodowe najłatwiej umieścić z wykorzystaniem paczki `lstlistings`.*
+
+20^ *Oddly specific...*
+
+# Teczka jako sprawa wagi państwowej
+
+Najważniejszą sprawą na świecie po zakończeniu semestru będzie dla Państwa tzw. teczka, oficjalnie nosząca miano *Akt studenta*. Proszę po złożeniu pracy uważnie przeczytać stosowną podstronę na stronie wydziału i opracować *akta studenta* zgodnie z podanym tam schematem.
+
+# Często zadawane pytania
+
+- **Ile stron pracy muszę napisać, żeby było dobrze?**
+- Nie ma czegoś takiego jak limit stron pracy inżynierskiej. Ważne jest to, aby znalazły się w niej wszystkie niezbędne informacje oraz to, żeby nie przerażała swoją objętością. Co do zasady, najczęściej jest to 40--60 stron.}
+	
+- **Kiedy odbędzie się egzamin?**
+- Jest to zależne od dwóch czynników. W pierwszej kolejności Dziekan Wydziału wydaje rozporządzenie z ogólnym harmonogramem. Podany jest w nim tydzień, w którym sekretarz komisji obron Państwa specjalności musi wyznaczyć termin obrony. Proszę więc być z góry przygotowanym na pierwszy dzień z tego tygodnia, a najwyżej pozytywnie się Państwo zaskoczą. Daty te nie są jeszcze na tę chwilę znane, ale postaram się dać znać, kiedy zostaną ogłoszone.
+	
+- **Gdzie dostarczyć akta studenta?**
+- Zgodnie ze informacjami ze strony wydziału, należy dostarczyć ją bezpośrednio do sekretarza komisji, ale w rzeczywistości najczęściej należy złożyć ją w sekretariacie jednostki, która prowadzi specjalność studenta. W wypadku specjalności prowadzonych przez Katedrę Systemów i Sieci Komputerowych, jest to sala 16/17 w budynku C3. **Chyba, żeby nie.**
+
+- **Jak długo będzie trwać egzamin?**
+- Najczęściej egzamin trwa około dwudziestu minut. W harmonogramie obron, które otrzymają Państwo od sekretarza komisji podana będzie konkretna godzina, w której powinni Państwo do niego przystąpić. Jest to jednak jedynie godzina orientacyjna i należy pojawić się pod salą odpowiednio wcześniej.
+	
+- **Kto będzie mnie egzaminować?**
+- Komisja składa się z trzech osób: przewodniczącego, członka i sekretarza. Dodatkowo podczas obrony może pojawić się promotor. **Chyba, żeby nie**. Jeśli chodzi o obrony organizowane dla specjalności mojej katedry, będę mieć tę informację odpowiednio wcześniej i obiecuję się na nich pojawić. W innych wypadkach, proszę przesłać mi wiadomość, kiedy otrzymają Państwo harmonogram obron w swoich jednostkach, abym mógł się na nich pojawić i również pogratulować sukcesu.
+	
+- **Ile kopii pracy wydrukować?**
+- Co do zasady, wystarczy kopia archiwalna do teczki. Mile widziana jest jednak druga kopia, w twardej oprawie, do wglądu dla komisji egzaminacyjnej. Trzecia jest opcjonalną dla Państwa na pamiątkę. Czwarta może dla rodziców. Jeśli i ja dostanę po obronie wydruk pracy w twardej oprawie, będzie mi szalenie miło, ale oczywiście nie zmuszam.
+
+# To w zasadzie tyle
+
+Mam szczerą nadzieję, że powyższy dokument będzie dla Państwa pomocny w realizacji pracy. Ze swojej strony życzę powodzenia i minimum stresu związanego z jej pisaniem.
+
+dr inż. Paweł Ksieniewicz
