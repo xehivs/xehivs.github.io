@@ -38,10 +38,12 @@ main:
   
 
 footer_primary:
-  # - name: "Project 1"
-  #   url: /projects/project-1/
-  # - name: "Project 2"
-  #   url: /projects/project-2/
+  - name: "Słowa"
+    url: /projects/
+  - name: "Blog"
+    url: /blog/
+  - name: "YouTube"
+    url: https://www.youtube.com/channel/UCGAASOpGn8xloyUumxdvzUw
   # - name: "Project 3"
   #   url: /projects/project-3/
   # - name: "Project 4"

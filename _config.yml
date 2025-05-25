@@ -150,7 +150,7 @@ analytics:
 
 comments:
   commento:
-    enabled: true # you must have a commento account and be on the correct domain. does not work locally.
+    enabled: false # you must have a commento account and be on the correct domain. does not work locally.
   disqus:
     shortname: "" # Your disqus shortcode for example "zerostatic". leave this blank ie "" to disable.
 
@@ -175,10 +175,10 @@ footer:
   footer_description: "Cześć, jestem Paweł. Lubię jeździć na rowerze i informatykę. Mam dwa koty. Judasza i Jezus."
   enable_social_media_icons: false
   enable_contact_details: false
-  enable_menu_footer_primary: false
+  enable_menu_footer_primary: true
   enable_menu_footer_secondary: false
   enable_menu_footer_tertiary: false
-  footer_primary_menu_title: "Our Projects"
+  footer_primary_menu_title: "Co zaś?"
   footer_secondary_menu_title: "Company"
   footer_tertiary_menu_title: "Other"
 
