@@ -183,6 +183,8 @@ Można wspomnieć tu o takich elementach jak:
 
 Wszystkie elementy, które znajdują się w tym rozdziale muszą wynikać w jakiś sposób ze zdefiniowanego we wcześniejszej części pracy celu. Ma to być w zasadzie wejście w detal w ramach schematu. Oś pracy inżynierskiej i jej najważniejszy i najbardziej treściwy fragment.
 
+![](/assets/images/gen/projects/IMG_0417.jpg)
+
 # Rozdział czwarty — Implementacja systemu
 
 W rozdziale czwartym jeszcze bardziej zagłębiamy się w detale, skupiając się już na budowie wszystkich poszczególnych modułów systemu. Bardzo mile widziane będzie wskazanie w nim publicznego repozytorium, o które najłatwiej w [Githubie](http://github.com), w ramach którego udostępnimy kod projektu^17. Mogą się tu znaleźć takie elementy jak:
@@ -198,6 +200,9 @@ W rozdziale czwartym jeszcze bardziej zagłębiamy się w detale, skupiając si
 
 Co do zasady, rozdział ten jest już domknięciem projektu i dowodem na to, że faktycznie został zrealizowany. Mogą się Państwo w nim pożalić na wszelkie problemy implementacyjne, pochwalić wszystkimi [małymi zwycięstwami](https://www.youtube.com/watch?v=87Q5PEjmrCU) i przede wszystkim pokazać, że opisany wcześniej projekt był przemyślany, sensowny i możliwy do realizacji.
     
+
+![](/assets/images/gen/projects/pd1.jpeg)
+
 # Podsumowanie  
 
 Tu nareszcie można odetchnąć. Aby lekko napisać podsumowanie należy na spokojnie przejrzeć cały tekst i z absolutną powagą odpowiedzieć na poniższe pytania.
@@ -218,7 +223,10 @@ Dawniej było tak, że wydziałowa biblioteka przeprowadzała dla dyplomantów s
 
 Bardzo przydatnym podczas przeglądu literatury będzie dla Państwa dowolne narzędzie do zarządzania nim. Z własnego doświadczenia, spośród darmowych rozwiązań, mogę polecić [Mendeley](https://www.mendeley.com) i [Zotero](https://www.zotero.org). Oba mam i nie używam.
 
-# Na co jeszcze zwracać uwagę?}
+
+![](/assets/images/gen/projects/pd2.jpeg)
+
+# Na co jeszcze zwracać uwagę?
 
 - Nikomu nigdy na nic nie przydał się spis ilustracji czy tabel. To tylko zapychacze stron.
 - Jeśli mamy dużą, porządnie napisaną dokumentację albo obszerne wyniki badań, ich pełną formę można dodać do pracy jako tzw. *Appendix*. Nie zaburzy głównego tekstu pracy, a solidnie rozszerzy liczbę stron.
