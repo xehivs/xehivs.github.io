@@ -266,4 +266,4 @@ Najważniejszą sprawą na świecie po zakończeniu semestru będzie dla Państ
 
 Mam szczerą nadzieję, że powyższy dokument będzie dla Państwa pomocny w realizacji pracy. Ze swojej strony życzę powodzenia i minimum stresu związanego z jej pisaniem.
 
-dr inż. Paweł Ksieniewicz
+Pan Paweł, Doktor Nauk

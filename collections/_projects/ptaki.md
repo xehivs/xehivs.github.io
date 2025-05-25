@@ -2,7 +2,7 @@
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Ptaki"
 description: ""
-weight: 2
+weight: 3
 thumbnail: "/assets/images/gen/projects/ptaki-thumbnail.jpg"
 image: "/assets/images/gen/projects/ptaki1.jpg"
 categories: []

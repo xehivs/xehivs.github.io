@@ -3,6 +3,7 @@ layout: project-left # alternative layouts: project, project-left, project-right
 title: "Wrocław"
 description: ""
 weight: 3
+date: 2008-10-01
 thumbnail: "/assets/images/gen/projects/wroclaw-thumbnail.jpeg"
 image: "/assets/images/gen/projects/wroclaw1.jpeg"
 categories: []

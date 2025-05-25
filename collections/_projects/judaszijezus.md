@@ -2,8 +2,8 @@
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Judasz i Jezus"
 description: ""
-date: 2015-07-01
-weight: 3
+date: 2015-10-01
+weight: 0
 thumbnail: "/assets/images/gen/projects/judaszijezus-thumbnail.jpg"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: []

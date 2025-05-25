@@ -2,7 +2,8 @@
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Wszyscy umrzemy"
 description: ""
-weight: 6
+weight: 1
+date: 2024-10-29
 thumbnail: "/assets/images/gen/projects/wszyscyumrzemy-thumbnail.jpeg"
 image: "/assets/images/gen/projects/wroclaw1.jpeg"
 categories: []
