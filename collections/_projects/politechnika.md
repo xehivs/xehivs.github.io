@@ -45,4 +45,4 @@ gallery:
   - image: "/assets/images/gen/projects/politechnika32.jpeg"
 ---
 
-Na Politechnice zacząłem pracować w lutym 2015. Dziesięć lat to *fajna liczba*.
+Na [Politechnice](https://kssk.pwr.edu.pl/ksieniewicz) zacząłem pracować w lutym 2015. Dziesięć lat to *fajna liczba*.
