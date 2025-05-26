@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jak napisać pracę inżynierską?"
-date: 2019-10-01T05:22:42Z
+date: 2025-05-26T05:10:00Z
 authors: ["Paweł Ksieniewicz"]
 categories: ["Studia"]
 description: "To ani proste, ani trudne zadanie. Masz na nie dokładnie tyle czasu, co potrzeba, to tylko dziekanat Cię niepotrzebnie pogania."

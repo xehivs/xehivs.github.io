@@ -12,5 +12,7 @@ role: false
 gallery_limit: 5
 gallery:
   - image: "/assets/images/gen/projects/question.jpg"
+  - image: "/assets/images/gen/projects/walk.gif"
+  # - image: "/assets/images/gen/projects/ac.jpg"
 ---
 
