@@ -16,6 +16,7 @@ gallery:
   - image: "/assets/images/gen/projects/wszyscyumrzemy3.jpeg"
   - image: "/assets/images/gen/projects/wszyscyumrzemy4.jpeg"
   - image: "/assets/images/gen/projects/wszyscyumrzemy5.jpeg"
+  - image: "/assets/images/gen/projects/wszyscyumrzemyy.jpg"
 ---
 
 W październiku 2024 spotkaliśmy się z Wojtkiem w Zajezdni i porozmawialiśmy sobie o śmierci i innych sprawach.
