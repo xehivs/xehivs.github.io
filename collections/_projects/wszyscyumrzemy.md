@@ -20,6 +20,8 @@ gallery:
 
 W październiku 2024 spotkaliśmy się z Wojtkiem w Zajezdni i porozmawialiśmy sobie o śmierci i innych sprawach.
 
+To było **to spotkanie**.
+
 Przegadaliśmy trzy godziny ~ ja bawiłem się dobrze, a wszystko udało się nagrać i zapisać. Nawet ludzie przyszli i nie wyszli w trakcie. Kind of a best day ever.
 
 {% include framework/shortcodes/youtube.html id='qy6Rm9HJRx8' %}
